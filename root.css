@@ -1,0 +1,21 @@
+:root{
+    --primarycolor: #FFFFFF;
+    --daycolor: #FFBD2F;
+    --pcolor:#D8D8D8;
+    --secondarycolor: #333333;
+    --titlecolor: #222222;
+    --subtitlecolor: #888888;
+    --accesscardbg1: #FF3A44;
+    --accesscardbg2: #FFBD2F;
+    --accesscardbg3:#0489CA;
+    --navlinkshape:#0B4C61;
+    --visitingbg:#0C5F79;
+    --socialbg: #FFFFFF;
+    --visitnmbrcolr1:#0489CA;
+    --visitnmbrcolr2:#FFBD2F;
+    --visitnmbrcolr3:#FF3A44;
+    --poppins:'Poppins', sans-serif;
+    --primaryweight: 400;
+    --secondaryweight: 600;
+    --mainweight: 700;
+}

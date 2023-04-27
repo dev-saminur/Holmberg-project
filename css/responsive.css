@@ -1,0 +1,1147 @@
+/* // ===============================
+            XX-L devices Start
+     ===============================// */
+
+     @media (min-width: 1400px){
+        .banner_video_img {
+            margin-left: -49px;
+        }
+        .banner_video_img::after {
+            bottom: -86px;
+            left: -96px;
+            width: 30%;
+            height: 35%;
+        }
+        .banner_video_img::before {
+            top: 100px;
+            right: -91px;
+            width: 22%;
+            height: 34%;
+        }
+        .access_item::before {
+            top: 155px;
+            left: -97px;
+            width: 32%;
+            height: 29%;
+        }
+        .access_item_3::after {
+            top: 140px;
+            right: -128px;
+            width: 43%;
+            height: 43%;
+        }
+        .visitor .visiting_img::after {
+            top: 152px;
+            right: -78px;
+            width: 26%;
+            height: 29%;
+        }
+        #about .about_content .about_left .about_img::before {
+            top: 118px;
+            left: -41px;
+            width: 30%;
+            height: 32%;
+        }
+     }
+/* // ===============================
+            XX-L devices End
+     ===============================// */
+/* // ===============================
+            X-L devices Start
+     ===============================// */
+     @media (min-width: 1200px) and (max-width: 1399.99px){
+        .banner_video_img {
+            margin-left: -49px;
+        }
+        .banner_video_img::after {
+            bottom: -86px;
+            left: -96px;
+            width: 30%;
+            height: 35%;
+        }
+        .banner_video_img::before {
+            top: 84px;
+            right: -85px;
+            width: 27%;
+            height: 40%;
+        }
+        .access_header h2 {
+            width: 100%;
+        }
+        .access_header p {
+            width: 70%;
+        }
+        .access_item::before {
+            top: 155px;
+            left: -60px;
+            width: 20%;
+            height: 28%;
+        }
+        .access_item_3::after {
+            top: 130px;
+            right: -99px;
+            width: 33%;
+            height: 32%;
+        }
+        #day_report .report_header h2 {
+            width: 100%;
+        }
+        .visitor .visiting_img::after {
+            top: 152px;
+            right: -56px;
+            width: 23%;
+            height: 30%;
+        }
+        .visitor .visiting_img {
+            margin-top: 70px;
+        }
+        #about .about_content .about_right .vector_icon {
+            padding-top: 16px;
+            padding-bottom: 92px;
+        }
+        #about .about_content .about_right .vector_icon {
+            padding-top: 15px;
+            padding-bottom: 20px;
+        }
+        #about .about_content .about_right .right_content p {
+            font-size: 20px;
+            line-height: 32px;
+            margin-bottom: 25px;
+            padding-right: 0;
+        }
+        #about .about_content .about_right .right_content h5 {
+            font-size: 22px;
+        }
+        #about .about_content .about_right .right_content span {
+            font-size: 21px;
+        }
+        #about .about_content .about_left .about_img::before {
+            top: 109px;
+            left: -34px;
+            width: 29%;
+            height: 30%;
+        }
+        #about .about_content .about_left .about_img::after {
+            top: 259px;
+            right: -30px;
+            width: 38%;
+            height: 29%;
+        }
+        #footer .social {
+            width: 100%;
+            margin: 0 auto;
+        }
+        #footer .social_icon .fb_icn {
+            margin-right: 14px;
+        }
+        #footer .social_icon .twit_icn {
+            margin-right: 14px;
+        }
+        #footer .social_icon .linkd_icn {
+            margin-right: 14px;
+        }
+        #footer .social_icon .fb_icn i {
+            padding: 10px;
+            margin-top: 1px;
+            margin-left: 1px;
+        }
+        #footer .social_icon .twit_icn i {
+            padding: 10px;
+            margin-top: 1px;
+            margin-left: 1px;
+        }
+        #footer .social_icon .linkd_icn i {
+            padding: 10px;
+            margin-top: 1px;
+            margin-left: 1px;
+        }
+        #footer .social_icon .twit_icn i {
+            padding: 10px;
+            margin-top: 1px;
+            margin-left: 1px;
+        }
+       
+        #footer .social_icon .skype_icn  i{
+            padding: 10px;
+            margin-top: 1px;
+            margin-left: 1px;
+        }
+        #focus .focus_header h2 {
+            font-size: 41px;
+            width: 100%;
+        }
+        #footer .quick .quick_head h5 {
+            font-size: 17px;
+        }
+     }
+/* // ===============================
+            X-L devices End
+     ===============================// */
+/* // ===============================
+            L-G devices Start
+     ===============================// */
+     @media (min-width: 992px) and (max-width: 1199.99px){
+
+        .banner_video_img {
+            margin-left: -49px;
+        }
+        .banner_video_img::after {
+            bottom: -86px;
+            left: -96px;
+            width: 30%;
+            height: 35%;
+        }
+        .banner_video_img::before {
+            top: 84px;
+            right: -71px;
+            width: 27%;
+            height: 40%;
+        }
+        .access_header h2 {
+            font-size: 34px;
+            width: 100%;
+        }
+        .access_item_3::after {
+            top: -113px;
+            right: -28px;
+            width: 22%;
+            height: 30%
+        }
+
+        .access_item::before {
+            top: 377px;
+            left: -3px;
+            width: 35%;
+            height: 35%;
+        }
+        #day_report .report_header h2 {
+            font-size: 34px;
+            width: 100%;
+        }
+        #day_report .day p {
+            width: 98%;
+            margin-bottom: 0;
+        }
+        .visit {
+            margin-top: 0;
+        }
+        .visitor .visitor_review .visitor_comment h4 {
+            font-size: 17px;
+            line-height: 26px;
+            padding-top: 19px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .visitor .visiting_img::after {
+            top: 152px;
+            right: -41px;
+            width: 23%;
+            height: 30%;
+        }
+        .visitor .visiting_img {
+            margin-top: 60px;
+        }
+        #about .about_header h2 {
+            font-size: 34px;
+            width: 100%;
+        }
+        #about .about_content .about_left .about_img::before {
+            top: 76px;
+            left: -15px;
+            width: 28%;
+            height: 30%;
+        }
+        #about .about_content .about_right .vector_icon {
+            padding-top: 16px;
+            padding-bottom: 92px;
+        }
+        #about .about_content .about_right .vector_icon {
+            padding-top: 15px;
+            padding-bottom: 20px;
+        }
+        #about .about_content .about_right .right_content p {
+            font-size: 20px;
+            line-height: 32px;
+            margin-bottom: 25px;
+            padding-right: 0;
+        }
+        #about .about_content .about_right .right_content h5 {
+            font-size: 22px;
+        }
+        #about .about_content .about_right .right_content span {
+            font-size: 21px;
+        }
+        #about .about_content .about_left .about_img::after {
+            top: 277px;
+            right: -22px;
+            width: 41%;
+            height: 31%;
+
+        }
+        .focus_bg .focus_rit_cntnt p {
+            width: 100%;
+        }
+        #focus .focus_header h2 {
+            font-size: 36px;
+            width: 100%;
+        }
+        .focus_btn button {
+            margin: 30px 0 45px 80px;
+        }
+        #footer .social h5 {
+            font-size: 16px;
+        }
+        #footer .quick .quick_head h5 {
+            font-size: 14px;
+            margin-bottom: 50px;
+        }
+
+        #footer .location .location_head h5 {
+            font-size: 15px;
+        }
+        #footer .social {
+            width: 100%;
+            margin: 0 auto;
+        }
+        #footer .social_icon .fb_icn {
+            margin-right: 14px;
+        }
+        #footer .social_icon .twit_icn {
+            margin-right: 14px;
+        }
+        #footer .social_icon .linkd_icn {
+            margin-right: 14px;
+        }
+        #footer .social_icon .fb_icn i {
+            padding: 10px;
+            margin-top: 1px;
+            margin-left: 1px;
+        }
+        #footer .social_icon .twit_icn i {
+            padding: 10px;
+            margin-top: 1px;
+            margin-left: 1px;
+        }
+        #footer .social_icon .linkd_icn i {
+            padding: 10px;
+            margin-top: 1px;
+            margin-left: 1px;
+        }
+        #footer .social_icon .twit_icn i {
+            padding: 10px;
+            margin-top: 1px;
+            margin-left: 1px;
+        }
+       
+        #footer .social_icon .skype_icn  i{
+            padding: 10px;
+            margin-top: 1px;
+            margin-left: 1px;
+        }
+        #focus .focus_header h2 {
+            font-size: 41px;
+            width: 100%;
+        }
+       
+        .focus_bg .focus_rit_cntnt p {
+            font-size: 16px;
+            line-height: 30px;
+            margin-top: 77px;
+            width: 100%;
+        }
+     }
+/* // ===============================
+            L-G devices End
+     ===============================// */
+/* // ===============================
+            M-D devices Start
+     ===============================// */
+     @media (min-width: 768px) and (max-width: 991.99px) {
+        .navbar-brand {
+            transform: scale(.9);
+            -webkit-transform: scale(.9);
+            -moz-transform: scale(.9);
+            -ms-transform: scale(.9);
+            -o-transform: scale(.9);
+}
+        .navbar-expand-lg {
+            padding-top: 20px;
+            text-align: center;
+        }
+        .navbar-toggler {
+            background-color: var(--accesscardbg1);
+            line-height: 0;
+        }
+        .navbar-toggler:focus {
+            box-shadow: none;
+        }
+        .navbar-toggler-icon {
+            background-image: none;
+            padding: 6px 0px;
+        
+        }
+        .navbar-toggler-icon i{
+            color: var(  --primarycolor);
+        }
+        .navbar-expand-lg .navbar-nav .nav-link::after {
+            background: none;
+            overflow: hidden;
+        }
+        .banner_btn button {
+            padding: 16px 22px;
+            font-size: 15px;
+        }
+        .banner_heading h1 {
+            font-size: 33px;
+            line-height: 40px;
+        }
+        .banner_heading p {
+            font-size: 17px;
+            line-height: 26px;
+            padding-right: 26px;
+            padding-bottom: 25px;
+        }
+        .banner_video_img::after {
+            content: ' ';
+            position: absolute;
+            bottom: -68px;
+            left: -63px;
+            background: url(../image/bannershape2.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 30%;
+            height: 35%;
+            z-index: -1;
+        }
+        .banner_video_img::before {
+            content: ' ';
+            position: absolute;
+            top: 63px;
+            right: -15px;
+            background: url(../image/bannershape1.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 37%;
+            height: 40%;
+            z-index: -1;
+        }
+        .banner_video_img img {
+            margin-top: 28px;
+        }
+        #all_bg {
+            background-size: cover;
+            vertical-align: center;
+            overflow: hidden;
+            background-attachment: fixed;
+        }
+        .access_header h2 {
+            font-size: 32px;
+            line-height: 45px;
+            padding-top: 71px;
+            width: 100%;
+        }
+        .access_header p {
+            font-size: 18px;
+            line-height: 27px;
+            width: 100%;
+            text-align: center;
+        }
+        .access_item::before {
+            background: none;
+            overflow: hidden;
+        }
+        .access_item_3{
+            position: relative;
+        }
+        .access_item_3::before {
+            content: ' ';
+            background: url(../image/acceshape1.png);
+            position: absolute;
+            top: 130px;
+            left: -134px;
+            width: 45%;
+            height: 45%;
+            background-repeat: no-repeat;
+            background-size: contain;
+            vertical-align: middle;
+            object-fit: cover;
+        }
+        .access_item_3::after {
+            content: ' ';
+            background: url(../image/acceshape2.png);
+            position: absolute;
+            top: 130px;
+            right: -134px;
+            width: 45%;
+            height: 45%;
+            background-repeat: no-repeat;
+            background-size: contain;
+            vertical-align: middle;
+            object-fit: cover;
+        }
+       
+        #day_report .report_header h2 {
+            font-size: 28px;
+            line-height: 42px;
+            padding-top: 47px;
+            width: 100%;
+        }
+        #day_report .day h3 {
+            font-size: 38px;
+        }
+        #day_report .day h4 {
+            font-size: 18px;
+            line-height: 26px;
+        }
+        #day_report .day p {
+            font-size: 15px;
+            width: 70%;
+        }
+        .visit {
+            margin-top: 0;
+        }
+        .visitor .visitor_review .visitor_comment h4 {
+            font-size: 17px;
+            line-height: 19px;
+            padding-top: 16px;
+        }
+        .visitor .visitor_review .visitor_comment p {
+            padding: 16px 12px;
+            font-size: 15px;
+            line-height: 23px;
+            padding-right: 9px;
+            padding-bottom: 22px;
+        }
+        .visitor {
+            margin-top: 50px;
+            padding-bottom: 050px;
+        }
+        #about {
+            margin-bottom: 100px;
+        }
+        #about .about_header h2 {
+            font-size: 30px;
+            line-height: 36px;
+            width: 100%;
+        }
+        #about .about_content .about_right .vector_icon {
+            padding-top: 0;
+            padding-bottom: 10px;
+        }
+        #about .about_content .about_left .about_img::before {
+            top: 56px;
+            left: -40px;
+        }
+        .visitor .visiting_img {
+            margin-top: 128px;
+        }
+    
+        .visitor .visiting_img::after {
+            content: ' ';
+            background: url(../image/acceshape3.png);
+            position: absolute;
+            top: 166px;
+            right: 0;
+            width: 80%;
+            height: 80%;
+            background-repeat: no-repeat;
+            background-size: cover;
+            vertical-align: middle;
+            overflow: hidden;
+            z-index: -1;
+        }
+        #about .about_content .about_left .about_img::after {
+            top: 209px;
+            right: 4px;
+            width: 62%;
+            height: 52%;
+        }
+        #about .about_content .about_right .vector_icon i {
+            font-size: 70px;
+        }
+        #about .about_content .about_right .right_content p {
+            font-size: 16px;
+            line-height: 26px;
+            margin-bottom: 20px;
+            padding-right: 0px;
+        }
+        
+        #about .about_content .about_right .right_content h5 {
+            font-size: 22px;
+            margin-bottom: 5px;
+        }
+        #about .about_content .about_right .right_content span {
+            font-size: 20px;
+        }
+        #focus .focus_header h2 {
+            font-size: 30px;
+            line-height: 42px;
+            margin-left: 0;
+            width: 100%;
+            text-align: left;
+            margin-top: 25px;
+            margin-left: 22px;
+        }
+        .focus_btn {
+            text-align: left;
+            margin-top: 12px;
+            margin-left: 22px;
+            margin-bottom: 20px;
+        }
+        .focus_btn button {
+            margin: 0;
+            padding: 17px 20px;
+        }
+    
+        .focus_bg .focus_rit_cntnt p {
+            font-size: 16px;
+            line-height: 28px;
+            margin-top: 2px;
+            width: 100%;
+            padding: 25px 14px;
+        }
+        #footer .top_img {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        #footer .top_img img {
+            width: 100% !important;
+            height: 100% !important;
+        }
+        #footer .img_cntnt {
+            margin-left: 0;
+        }
+        #footer .social {
+            width: 100%;
+            margin-top: 36px;
+        }
+        #footer .social h5 {
+            margin-bottom: 16px;
+        }
+        #footer .quick {
+            width: 100%;
+            margin-top: 45px;
+        }
+        #footer .quick .quick_head h5 {
+            margin-bottom: 25px;
+            font-size: 16px;
+        }
+        #footer .quick .quick_link ul li {
+            padding-bottom: 9px;
+        }
+        #footer .location {
+            width: 100%;
+            margin-top: 45px;
+        }
+        #footer .footer_cntnt p {
+            width: 80%;
+        }
+        #footer .location .location_head h5 {
+            line-height: 25px;
+            margin-bottom: 30px;
+            font-size: 16px;
+        }
+        #footer .location .address p {
+            line-height: 23px;
+            margin-bottom: 9px;
+        }
+        #footer .bottom_img {
+            padding-bottom: 16px;
+        }
+        .copy_right {
+            padding-bottom: 30px;
+            text-align: center;
+        }
+      }
+/* // ===============================
+            M-D devices End
+     ===============================// */
+/* // ===============================
+            S-M devices Start
+     ===============================// */
+     @media (min-width: 576px) and (max-width: 767.99px) {
+        .navbar-brand {
+            transform: scale(.8);
+        }
+        .navbar-expand-lg {
+            padding-top: 20px;
+            text-align: center;
+        }
+        .navbar-toggler {
+            background-color: var(--accesscardbg1);
+            line-height: 0;
+        }
+        .navbar-toggler:focus {
+            box-shadow: none;
+        }
+        .navbar-toggler-icon {
+            background-image: none;
+            padding: 6px 0px;
+        
+        }
+        .navbar-toggler-icon i{
+            color: var(  --primarycolor);
+        }
+        .navbar-expand-lg .navbar-nav .nav-link::after {
+            background: none;
+            overflow: hidden;
+        }
+        .banner_btn button {
+            padding: 12px 17px;
+            font-size: 14px;
+        }
+        .banner_heading h1 {
+            font-size: 38px;
+            line-height: 40px;
+        }
+        .banner_heading p {
+            font-size: 16px;
+            line-height: 26px;
+            padding-right: 26px;
+            padding-bottom: 25px;
+        }
+        .banner_video_img::after {
+            background: none;
+            overflow: hidden;
+        }
+        .banner_video_img::before {
+            background:none;
+            overflow: hidden;
+            position: static;
+        
+        }
+        .banner_video_img img {
+            margin-top: -50px;
+        }
+        #all_bg {
+            background-size: cover;
+            vertical-align: center;
+            overflow: hidden;
+            background-attachment: fixed;
+        }
+        .access_header h2 {
+            font-size: 27px;
+            line-height: 35px;
+            padding-top: 71px;
+            width: 100%;
+        }
+        .access_header p {
+            font-size: 17px;
+            line-height: 26px;
+            width: 100%;
+            text-align: center;
+        }
+        .access_item::before {
+            background: none;
+            overflow: hidden;
+        }
+        .access_item_3::after {
+            background: none;
+            overflow: hidden;
+        }
+       
+        #day_report .report_header h2 {
+            font-size: 27px;
+            line-height: 35px;
+            padding-top: 47px;
+            width: 100%;
+        }
+        #day_report .day h3 {
+            font-size: 35px;
+        }
+        #day_report .day h4 {
+            font-size: 17px;
+            line-height: 26px;
+        }
+        #day_report .day p {
+            font-size: 15px;
+            width: 70%;
+        }
+        .visit {
+            margin-top: 0;
+        }
+        .visitor .visitor_review .visitor_comment h4 {
+            font-size: 17px;
+            line-height: 19px;
+            padding-top: 16px;
+        }
+        .visitor .visitor_review .visitor_comment p {
+            padding: 16px 12px;
+            font-size: 15px;
+            line-height: 23px;
+            padding-right: 9px;
+            padding-bottom: 22px;
+        }
+        .visitor {
+            margin-top: 50px;
+            padding-bottom: 050px;
+        }
+        #about {
+            margin-bottom: 50px;
+        }
+        #about .about_header h2 {
+            font-size: 27px;
+            line-height: 35px;
+            width: 100%;
+        }
+        #about .about_content .about_right .vector_icon {
+            padding-top: 0;
+            padding-bottom: 10px;
+        }
+        #about .about_content .about_left .about_img::before {
+            top: 56px;
+            left: -40px;
+        }
+     
+    
+        .visitor .visiting_img::after {
+            background: none;
+            overflow: hidden;
+        }
+        #about .about_content .about_left .about_img::after {
+            top: 188px;
+            right: 27px;
+            width: 51%;
+            height: 41%;
+        }
+        #about .about_content .about_right .vector_icon i {
+            font-size: 70px;
+        }
+        #about .about_content .about_right .right_content p {
+            font-size: 16px;
+            line-height: 26px;
+            margin-bottom: 20px;
+            padding-right: 0px;
+        }
+        
+        #about .about_content .about_right .right_content h5 {
+            font-size: 22px;
+            margin-bottom: 5px;
+        }
+        #about .about_content .about_right .right_content span {
+            font-size: 20px;
+        }
+        #focus .focus_header h2 {
+            font-size: 23px;
+            line-height: 40px;
+            margin-left: 0;
+            width: 100%;
+            text-align: left;
+            margin-top: 25px;
+            margin-left: 22px;
+        }
+        .focus_btn {
+            text-align: left;
+            margin-top: 12px;
+            margin-left: 22px;
+            margin-bottom: 20px;
+        }
+        .focus_btn button {
+            margin: 0;
+            padding: 17px 20px;
+        }
+    
+        .focus_bg .focus_rit_cntnt p {
+            font-size: 15px;
+            line-height: 26px;
+            margin-top: 2px;
+            width: 100%;
+            padding: 25px 14px;
+        }
+        #footer .top_img {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        #footer .top_img img {
+            width: 100% !important;
+            height: 100% !important;
+        }
+        #footer .img_cntnt {
+            margin-left: 0;
+        }
+        #footer .social {
+            width: 100%;
+            margin-top: 36px;
+        }
+        #footer .social h5 {
+            margin-bottom: 16px;
+        }
+        #footer .quick {
+            width: 100%;
+            margin-top: 45px;
+        }
+        #footer .quick .quick_head h5 {
+            margin-bottom: 25px;
+            font-size: 16px;
+        }
+        #footer .quick .quick_link ul li {
+            padding-bottom: 9px;
+        }
+        #footer .location {
+            width: 100%;
+            margin-top: 45px;
+        }
+        #footer .footer_cntnt p {
+            width: 80%;
+        }
+        #footer .location .location_head h5 {
+            line-height: 25px;
+            margin-bottom: 30px;
+            font-size: 16px;
+        }
+        #footer .location .address p {
+            line-height: 23px;
+            margin-bottom: 9px;
+        }
+        #footer .bottom_img {
+            padding-bottom: 16px;
+        }
+        .copy_right {
+            padding-bottom: 30px;
+            text-align: center;
+        }
+      }
+
+/* // ===============================
+            S-M devices End
+     ===============================// */
+
+/* // ===============================
+            X-Small devices Start
+     ===============================// */
+@media (max-width: 575.99px) { 
+    .navbar-brand {
+        transform: scale(.8);
+    }
+    .navbar-expand-lg {
+        padding-top: 20px;
+        text-align: center;
+    }
+    .navbar-toggler {
+        background-color: var(--accesscardbg1);
+        line-height: 0;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-toggler-icon {
+        background-image: none;
+        padding: 6px 0px;
+    
+    }
+    .navbar-toggler-icon i{
+        color: var(  --primarycolor);
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        background: none;
+        overflow: hidden;
+    }
+    .banner_btn button {
+        padding: 12px 17px;
+        font-size: 14px;
+    }
+    .banner_heading h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .banner_heading p {
+        font-size: 15px;
+        line-height: 26px;
+        padding-right: 0;
+        padding-bottom: 25px;
+    }
+    .banner_video_img::after {
+        background: none;
+        overflow: hidden;
+    }
+    .banner_video_img::before {
+        background:none;
+        overflow: hidden;
+        position: static;
+    
+    }
+    .banner_video_img img {
+        margin-top: -50px;
+    }
+    #all_bg {
+        background-size: cover;
+        vertical-align: center;
+        overflow: hidden;
+        background-attachment: fixed;
+    }
+    .access_header h2 {
+        font-size: 22px;
+        line-height: 35px;
+        padding-top: 71px;
+        width: 100%;
+    }
+    .access_header p {
+        font-size: 16px;
+        line-height: 26px;
+        width: 100%;
+        text-align: left;
+    }
+    .access_item::before {
+        background: none;
+        overflow: hidden;
+    }
+    .access_item_3::after {
+        background: none;
+        overflow: hidden;
+    }
+   
+    #day_report .report_header h2 {
+        font-size: 22px;
+        line-height: 35px;
+        padding-top: 47px;
+        width: 100%;
+    }
+    #day_report .day h3 {
+        font-size: 35px;
+    }
+    #day_report .day h4 {
+        font-size: 17px;
+        line-height: 26px;
+    }
+    #day_report .day p {
+        font-size: 15px;
+        width: 100%;
+    }
+    .visit {
+        margin-top: 0;
+    }
+    .visitor .visitor_review .visitor_comment h4 {
+        font-size: 17px;
+        line-height: 19px;
+        padding-top: 16px;
+    }
+    .visitor .visitor_review .visitor_comment p {
+        padding: 16px 12px;
+        font-size: 15px;
+        line-height: 23px;
+        padding-right: 9px;
+        padding-bottom: 22px;
+    }
+    .visitor {
+        margin-top: 50px;
+        padding-bottom: 050px;
+    }
+    #about {
+        margin-bottom: 50px;
+    }
+    #about .about_header h2 {
+        font-size: 22px;
+        line-height: 35px;
+        width: 100%;
+    }
+    #about .about_content .about_right .vector_icon {
+        padding-top: 0;
+    }
+    #about .about_content .about_left .about_img::before {
+        background: none;
+        overflow: hidden;
+
+    }
+
+    .visitor .visiting_img::after {
+        background: none;
+        overflow: hidden;
+    }
+    #about .about_content .about_left .about_img::after {
+        content: ' ';
+        position: absolute;
+        top: 395px;
+        right: -19px;
+        background: none;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 41%;
+        height: 31%;
+        z-index: -1;
+    }
+    #about .about_content .about_right .right_content p {
+        font-size: 16px;
+        line-height: 28px;
+        margin-bottom: 25px;
+        padding-right: 0px;
+    }
+    
+    #about .about_content .about_right .right_content h5 {
+        font-size: 22px;
+    }
+    #about .about_content .about_right .right_content span {
+        font-size: 20px;
+    }
+    #focus .focus_header h2 {
+        font-size: 24px;
+        line-height: 40px;
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .focus_btn {
+        text-align: center;
+        margin-top: 15px;
+    }
+    .focus_btn button {
+        margin: 0;
+    }
+
+    .focus_bg .focus_rit_cntnt p {
+        font-size: 16px;
+        line-height: 27px;
+        margin-top: 15px;
+        width: 100%;
+        padding: 30px 22px;
+    }
+    #footer .img_cntnt {
+        margin-left: 0;
+    }
+    #footer .social {
+        width: 100%;
+        margin-top: 25px;
+    }
+    #footer .social h5 {
+        margin-bottom: 16px;
+    }
+    #footer .quick {
+        width: 100%;
+        margin-top: 30px;
+    }
+    #footer .quick .quick_head h5 {
+        margin-bottom: 25px;
+        font-size: 16px;
+    }
+    #footer .quick .quick_link ul li {
+        padding-bottom: 9px;
+    }
+    #footer .location {
+        width: 100%;
+        margin-top: 25px;
+    }
+    #footer .top_img {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        overflow: hidden;
+    }
+    #footer .top_img img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+    #footer .location .location_head h5 {
+        line-height: 25px;
+        margin-bottom: 30px;
+        font-size: 16px;
+    }
+    #footer .location .address p {
+        line-height: 23px;
+        margin-bottom: 9px;
+    }
+    #footer .bottom_img {
+        padding-bottom: 16px;
+    }
+    .copy_right {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+ }
